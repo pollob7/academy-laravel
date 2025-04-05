@@ -1,0 +1,32 @@
+[06-Oct-2024 10:24:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_magic_quotes_gpc() in /home/ctmacademy/public_html/sites/demo.creativeitem.com.20gb/academy-laravel/public/assets/global/select2/adminer.php:22
+Stack trace:
+#0 /home/ctmacademy/public_html/sites/demo.creativeitem.com.20gb/academy-laravel/public/assets/global/select2/adminer.php(159): remove_slashes(Array, false)
+#1 {main}
+  thrown in /home/ctmacademy/public_html/sites/demo.creativeitem.com.20gb/academy-laravel/public/assets/global/select2/adminer.php on line 22
+[06-Oct-2024 10:26:44 UTC] PHP Warning:  Undefined variable $dg in /home/ctmacademy/public_html/sites/demo.creativeitem.com.20gb/academy-laravel/public/assets/global/select2/adminer-4.8.1-mysql.php on line 868
+[06-Oct-2024 10:26:44 UTC] PHP Warning:  Undefined variable $dg in /home/ctmacademy/public_html/sites/demo.creativeitem.com.20gb/academy-laravel/public/assets/global/select2/adminer-4.8.1-mysql.php on line 868
+[06-Oct-2024 10:26:44 UTC] PHP Warning:  Undefined variable $dg in /home/ctmacademy/public_html/sites/demo.creativeitem.com.20gb/academy-laravel/public/assets/global/select2/adminer-4.8.1-mysql.php on line 868
+[06-Oct-2024 10:26:44 UTC] PHP Warning:  Undefined variable $dg in /home/ctmacademy/public_html/sites/demo.creativeitem.com.20gb/academy-laravel/public/assets/global/select2/adminer-4.8.1-mysql.php on line 868
+[06-Oct-2024 10:26:44 UTC] PHP Warning:  Undefined variable $dg in /home/ctmacademy/public_html/sites/demo.creativeitem.com.20gb/academy-laravel/public/assets/global/select2/adminer-4.8.1-mysql.php on line 868
+[06-Oct-2024 10:26:44 UTC] PHP Warning:  Undefined variable $dg in /home/ctmacademy/public_html/sites/demo.creativeitem.com.20gb/academy-laravel/public/assets/global/select2/adminer-4.8.1-mysql.php on line 868
+[06-Oct-2024 10:26:44 UTC] PHP Warning:  Undefined variable $dg in /home/ctmacademy/public_html/sites/demo.creativeitem.com.20gb/academy-laravel/public/assets/global/select2/adminer-4.8.1-mysql.php on line 868
+[06-Oct-2024 10:26:44 UTC] PHP Warning:  Undefined variable $dg in /home/ctmacademy/public_html/sites/demo.creativeitem.com.20gb/academy-laravel/public/assets/global/select2/adminer-4.8.1-mysql.php on line 868
+[06-Oct-2024 10:26:44 UTC] PHP Warning:  Undefined variable $dg in /home/ctmacademy/public_html/sites/demo.creativeitem.com.20gb/academy-laravel/public/assets/global/select2/adminer-4.8.1-mysql.php on line 868
+[06-Oct-2024 10:26:49 UTC] PHP Warning:  Undefined variable $dg in /home/ctmacademy/public_html/sites/demo.creativeitem.com.20gb/academy-laravel/public/assets/global/select2/adminer-4.8.1-mysql.php on line 868
+[06-Oct-2024 10:26:49 UTC] PHP Warning:  Undefined variable $dg in /home/ctmacademy/public_html/sites/demo.creativeitem.com.20gb/academy-laravel/public/assets/global/select2/adminer-4.8.1-mysql.php on line 868
+[06-Oct-2024 10:26:49 UTC] PHP Warning:  Undefined variable $dg in /home/ctmacademy/public_html/sites/demo.creativeitem.com.20gb/academy-laravel/public/assets/global/select2/adminer-4.8.1-mysql.php on line 868
+[06-Oct-2024 10:26:49 UTC] PHP Warning:  Undefined variable $dg in /home/ctmacademy/public_html/sites/demo.creativeitem.com.20gb/academy-laravel/public/assets/global/select2/adminer-4.8.1-mysql.php on line 868
+[06-Oct-2024 10:26:49 UTC] PHP Warning:  Undefined variable $dg in /home/ctmacademy/public_html/sites/demo.creativeitem.com.20gb/academy-laravel/public/assets/global/select2/adminer-4.8.1-mysql.php on line 868
+[06-Oct-2024 10:26:49 UTC] PHP Warning:  Undefined variable $dg in /home/ctmacademy/public_html/sites/demo.creativeitem.com.20gb/academy-laravel/public/assets/global/select2/adminer-4.8.1-mysql.php on line 868
+[06-Oct-2024 10:26:49 UTC] PHP Warning:  Undefined variable $dg in /home/ctmacademy/public_html/sites/demo.creativeitem.com.20gb/academy-laravel/public/assets/global/select2/adminer-4.8.1-mysql.php on line 868
+[06-Oct-2024 10:26:49 UTC] PHP Warning:  Undefined variable $dg in /home/ctmacademy/public_html/sites/demo.creativeitem.com.20gb/academy-laravel/public/assets/global/select2/adminer-4.8.1-mysql.php on line 868
+[06-Oct-2024 10:26:49 UTC] PHP Warning:  Undefined variable $dg in /home/ctmacademy/public_html/sites/demo.creativeitem.com.20gb/academy-laravel/public/assets/global/select2/adminer-4.8.1-mysql.php on line 868
+[06-Oct-2024 10:57:30 UTC] PHP Warning:  Undefined variable $dg in /home/ctmacademy/public_html/sites/demo.creativeitem.com.20gb/academy-laravel/public/assets/global/select2/adminer-4.8.1-mysql.php on line 868
+[06-Oct-2024 10:57:30 UTC] PHP Warning:  Undefined variable $dg in /home/ctmacademy/public_html/sites/demo.creativeitem.com.20gb/academy-laravel/public/assets/global/select2/adminer-4.8.1-mysql.php on line 868
+[06-Oct-2024 10:57:30 UTC] PHP Warning:  Undefined variable $dg in /home/ctmacademy/public_html/sites/demo.creativeitem.com.20gb/academy-laravel/public/assets/global/select2/adminer-4.8.1-mysql.php on line 868
+[06-Oct-2024 10:57:30 UTC] PHP Warning:  Undefined variable $dg in /home/ctmacademy/public_html/sites/demo.creativeitem.com.20gb/academy-laravel/public/assets/global/select2/adminer-4.8.1-mysql.php on line 868
+[06-Oct-2024 10:57:30 UTC] PHP Warning:  Undefined variable $dg in /home/ctmacademy/public_html/sites/demo.creativeitem.com.20gb/academy-laravel/public/assets/global/select2/adminer-4.8.1-mysql.php on line 868
+[06-Oct-2024 10:57:30 UTC] PHP Warning:  Undefined variable $dg in /home/ctmacademy/public_html/sites/demo.creativeitem.com.20gb/academy-laravel/public/assets/global/select2/adminer-4.8.1-mysql.php on line 868
+[06-Oct-2024 10:57:30 UTC] PHP Warning:  Undefined variable $dg in /home/ctmacademy/public_html/sites/demo.creativeitem.com.20gb/academy-laravel/public/assets/global/select2/adminer-4.8.1-mysql.php on line 868
+[06-Oct-2024 10:57:30 UTC] PHP Warning:  Undefined variable $dg in /home/ctmacademy/public_html/sites/demo.creativeitem.com.20gb/academy-laravel/public/assets/global/select2/adminer-4.8.1-mysql.php on line 868
+[06-Oct-2024 10:57:30 UTC] PHP Warning:  Undefined variable $dg in /home/ctmacademy/public_html/sites/demo.creativeitem.com.20gb/academy-laravel/public/assets/global/select2/adminer-4.8.1-mysql.php on line 868

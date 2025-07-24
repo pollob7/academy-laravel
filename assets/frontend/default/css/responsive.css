@@ -315,6 +315,17 @@
     .sub-header-left ul {
         justify-content: center;
     }
+    /* Ebook */
+    .eBookDetails{
+        height: auto !important;
+    }
+    .ebook-tab-area {
+        margin-top: 0;
+    }
+    .ebook-card-img .card-img-top {
+        object-fit: cover;
+        height: 400px;
+    }
 }
 
 @media all and (max-width:576px) {
